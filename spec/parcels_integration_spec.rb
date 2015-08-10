@@ -16,4 +16,4 @@ describe('Calculating shipping cost and package volume based on user input', {:t
     expect(page).to have_content("Volume: 24")
   end
 
-end
+end  #comment some superficial tag
